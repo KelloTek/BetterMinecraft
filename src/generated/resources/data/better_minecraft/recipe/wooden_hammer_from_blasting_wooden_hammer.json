@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "wooden",
+  "ingredient": {
+    "item": "better_minecraft:wooden_hammer"
+  },
+  "result": {
+    "count": 1,
+    "id": "better_minecraft:wooden_hammer"
+  }
+}

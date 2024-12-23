@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GSG",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "better_minecraft:golden_hammer"
+  }
+}

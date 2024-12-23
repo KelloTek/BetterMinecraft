@@ -1,0 +1,12 @@
+{
+  "creativetab.better_minecraft.tools_items": "Better Minecraft Tools",
+
+  "item.better_minecraft.wooden_hammer": "Wooden Hammer",
+  "item.better_minecraft.stone_hammer": "Stone Hammer",
+  "item.better_minecraft.iron_hammer": "Iron Hammer",
+  "item.better_minecraft.golden_hammer": "Golden Hammer",
+  "item.better_minecraft.diamond_hammer": "Diamond Hammer",
+  "item.better_minecraft.netherite_hammer": "Netherite Hammer",
+
+  "block.better_minecraft.disassembly_table": "Disassembly Table"
+}
